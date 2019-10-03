@@ -1,2 +1,2 @@
-# pythree-starter
+# PyThree Starter
 Python 3 basic starter script with simple MySQL CRUD
